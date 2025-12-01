@@ -1,0 +1,18 @@
+# IDE ayarları
+.idea/
+.vscode/
+
+# Sanal ortam
+venv/
+.venv/
+
+# Derleme/artık dosyaları
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpointleri
+.ipynb_checkpoints/
+
+# Kendi dosyalarınızdan gizlemek istedikleriniz
+myfile.txt
+OOP-CLASS/
