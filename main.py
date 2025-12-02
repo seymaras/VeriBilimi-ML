@@ -1,4 +1,8 @@
-import numpy
+from seymamodule import example_func
+from AnimalPackage.CatPackage import meow
 
-example = numpy.zeros((3,5))
-print(example)
+example_func()
+print("hello world")
+
+#info.info()
+meow.speak()
